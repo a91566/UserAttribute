@@ -1,0 +1,10 @@
+d:\documents\visual studio 2017\Projects\UserAttribute\wfa_20170504\bin\Debug\wfa_20170504.exe.config
+d:\documents\visual studio 2017\Projects\UserAttribute\wfa_20170504\bin\Debug\wfa_20170504.exe
+d:\documents\visual studio 2017\Projects\UserAttribute\wfa_20170504\bin\Debug\wfa_20170504.pdb
+d:\documents\visual studio 2017\Projects\UserAttribute\wfa_20170504\obj\Debug\wfa_20170504.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2017\Projects\UserAttribute\wfa_20170504\obj\Debug\wfa_20170504.Form1.resources
+d:\documents\visual studio 2017\Projects\UserAttribute\wfa_20170504\obj\Debug\wfa_20170504.Properties.Resources.resources
+d:\documents\visual studio 2017\Projects\UserAttribute\wfa_20170504\obj\Debug\wfa_20170504.csproj.GenerateResource.Cache
+d:\documents\visual studio 2017\Projects\UserAttribute\wfa_20170504\obj\Debug\wfa_20170504.exe
+d:\documents\visual studio 2017\Projects\UserAttribute\wfa_20170504\obj\Debug\wfa_20170504.pdb
+d:\documents\visual studio 2017\Projects\UserAttribute\wfa_20170504\bin\Debug\System.ValueTuple.dll
